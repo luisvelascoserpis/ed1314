@@ -1,0 +1,1 @@
+sudo apt-get install openjdk-6-jdk=6b24-1.11.1-4ubuntu2 openjdk-6-jre=6b24-1.11.1-4ubuntu2 openjdk-6-jre-headless=6b24-1.11.1-4ubuntu2 icedtea-6-jre-cacao=6b24-1.11.1-4ubuntu2 icedtea-6-jre-jamvm=6b24-1.11.1-4ubuntu2
